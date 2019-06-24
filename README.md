@@ -1,2 +1,2 @@
 # flask-Internet-of-Things-Platform
-python based IoT platform, based on flask, vue.js, bulma
+python based IoT platform, base on flask, vue.js, bulma
